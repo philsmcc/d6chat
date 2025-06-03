@@ -59,12 +59,12 @@ session_start();
 </head>
 <body>
     <div class="container">
-        <h1>Kelly's Pub Chat - Terms of Service</h1>
-        <p>Welcome to Kelly's Pub Chat! This is a for-fun service designed to bring patrons together in a lively, social environment. By using this chat, you agree to the following terms:</p>
+        <h1>District 6 Chat - Terms of Service</h1>
+        <p>Welcome to District 6 Chat from SunScreen Media! This is a for-fun service designed to bring patrons together in a lively, social environment. By using this chat, you agree to the following terms:</p>
         <p><strong>Keep it Fun and Safe:</strong> This chat is for lighthearted, friendly conversation. Do not share any private or sensitive information, as messages are visible to other users, including strangers.</p>
         <p><strong>Respect Others:</strong> Do not use provoking language, harass, or bully anyone. We encourage a positive and inclusive atmosphere for all users.</p>
-        <p><strong>Responsibility:</strong> You are responsible for your actions and content shared in the chat. Kelly's Pub and SunScreen Media are not liable for any user-generated content.</p>
-        <p><strong>Have a Great Time:</strong> Enjoy connecting with others at Kelly's Pub! Keep the vibe fun and welcoming.</p>
+        <p><strong>Responsibility:</strong> You are responsible for your actions and content shared in the chat. District 6 and SunScreen Media are not liable for any user-generated content.</p>
+        <p><strong>Have a Great Time:</strong> Enjoy connecting with others at District 6! Keep the vibe fun and welcoming.</p>
         <p>If you have any questions, please visit SunScreenmedia.com. Return to the <a href="chat.php">chat</a>.</p>
     </div>
 </body>
