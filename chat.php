@@ -24,7 +24,7 @@ file_put_contents('/tmp/chat_debug.log', "Chat Session: " . print_r($_SESSION, t
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kelly's Pub Chat</title>
+    <title>District 6 Chat</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
     <style>
         body {
@@ -181,7 +181,7 @@ file_put_contents('/tmp/chat_debug.log', "Chat Session: " . print_r($_SESSION, t
         <form method="POST" action="exit.php">
             <button type="submit" class="exit-button">X</button>
         </form>
-        <h1>Kelly's Pub Chat</h1>
+        <h1>District 6 Chat</h1>
         <div id="chatBox"></div>
         <form id="messageForm">
             <input type="text" id="message" placeholder="Type a message" required>
